@@ -1,0 +1,23 @@
+#mensagem {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+#mensagem h2 {
+    text-align: center;
+    font-size: 27px;
+    text-decoration: underline; 
+    color: #79c68d;
+}
+
+#mensagem p {
+    margin: 50px 100px 0px 100px;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+#mensagem h4 {
+    /*margin: 30px 50px 50px 50px;*/
+    margin: 30px 100px 30px 100px;
+    text-shadow: 1px 1px 3px #3a3333;
+}

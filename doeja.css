@@ -1,0 +1,21 @@
+.container1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 500px;
+    text-align: center;
+}
+
+#doacao {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#doacao select {
+    cursor: pointer;
+}
+
+#doacao legend {
+    font-family: 'PT Sans Caption', sans-serif;
+    font-style: italic;
+}
